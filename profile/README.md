@@ -2,9 +2,9 @@
   
 # 🔵🟢 Tempo One 🟢🔵
 
-![tempo](https://user-images.githubusercontent.com/78353572/161703600-820a7097-9392-49ea-bf02-9c869b1fca0e.png)
-
 ℹ️ Votre architecte et maitre d’œuvre de vos projets transport et logistique 🚛 🏭.
+
+![tempo](https://user-images.githubusercontent.com/78353572/161703600-820a7097-9392-49ea-bf02-9c869b1fca0e.png)
 
 ## Technologies Utilisées - Front-end 🎨
   
@@ -43,9 +43,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)&nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-000?&logo=phpmyadmin)&nbsp;
   
-  
 
 ## 🌐 https://www.tempo-one.com/ 
+  
+![Tempo](https://user-images.githubusercontent.com/78353572/161705563-8cfb210a-0f08-48c6-887f-378eba8ec977.png)
   
 </div>
   
