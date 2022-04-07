@@ -34,6 +34,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)&nbsp;
+![Play Framework](https://img.shields.io/badge/-Play%20Framework-000?&logo=playframework)&nbsp;
   
 ### Databases 🐳
 
