@@ -28,10 +28,12 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)&nbsp;
   
 ### Frameworks ⚙️
 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?&logo=Node.js)&nbsp;
+![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=Nestjs)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-000?&logo=express)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)&nbsp;
 ![Play Framework](https://img.shields.io/badge/-Play%20Framework-000?&logo=playframework)&nbsp;
