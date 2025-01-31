@@ -2,7 +2,7 @@
   
 # 🔵🟢 Tempo One 🟢🔵
 
-ℹ️ Votre architecte et maitre d’œuvre de vos projets transport et logistique 🚛 🏭.
+ℹ️ Architecte et maitre d’œuvre de vos projets transport et logistique 🚛 🏭.
 
 ![tempo](https://user-images.githubusercontent.com/78353572/161703600-820a7097-9392-49ea-bf02-9c869b1fca0e.png)
 
